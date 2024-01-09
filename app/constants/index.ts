@@ -24,7 +24,7 @@ export const encontacForm = "https://wordpress-1184222-4210786.cloudwaysapps.com
 export const enemploymentForm = "https://woocommerce-1184222-4160210.cloudwaysapps.com/en/watermelonemploymentrequest_en";
 export const enjoinusForm ="https://woocommerce-1184222-4160210.cloudwaysapps.com/en/watermelonjoinus_en";
 export const enprivacyPage = "https://woocommerce-1184222-4160210.cloudwaysapps.com/en/privacypolicy/";
-export const entermsPage = "https://wordpress-1184222-4210786.cloudwaysapps.com/en/terms-2/";
+export const entermsPage = "https://wordpress-1184222-4210786.cloudwaysapps.com/en/terms-2";
 
 
 export const applestoreUrl ="https://apps.apple.com/us/app/watermelon-%D9%88%D8%AA%D8%B1%D9%85%D9%8A%D9%84%D9%88%D9%86/id1593303723";
